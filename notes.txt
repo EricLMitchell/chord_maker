@@ -1,0 +1,12 @@
+MM7: Bb  D  F  A
+Mm7: A#  D  F  G#
+mm7: A#  C#  F  G#
+/°7: A#  C#  E  G#
+°7: A#  C#  E  G
+
+
+
+
+If it is a normal sharp key, be normal
+if it is a flat key, use enharmonic notes.
+if it is a non-normal sharp key, raise every note by 1/2 step from a normal key
